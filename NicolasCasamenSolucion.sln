@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NicolasCasamenSolucion", "NicolasCasamenSolucion.csproj", "{C1048D8F-B310-49BC-A898-32EF0A58A44C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NicolasCasamenSolucion", "NicolasCasamenSolucion.csproj", "{C1048D8F-B310-49BC-A898-32EF0A58A44C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NicolasCasamenSolucionAPI", "..\NicolasCasamenSolucionAPI\NicolasCasamenSolucionAPI.csproj", "{5594ACE7-3B7C-4E2B-92C6-E15C1563087D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NicolasCasamenSolucionAPI", "..\NicolasCasamenSolucionAPI\NicolasCasamenSolucionAPI.csproj", "{BF5D1E50-0955-4D93-B6F6-EA2EEA2993E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{C1048D8F-B310-49BC-A898-32EF0A58A44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1048D8F-B310-49BC-A898-32EF0A58A44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1048D8F-B310-49BC-A898-32EF0A58A44C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5594ACE7-3B7C-4E2B-92C6-E15C1563087D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5594ACE7-3B7C-4E2B-92C6-E15C1563087D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5594ACE7-3B7C-4E2B-92C6-E15C1563087D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5594ACE7-3B7C-4E2B-92C6-E15C1563087D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF5D1E50-0955-4D93-B6F6-EA2EEA2993E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5D1E50-0955-4D93-B6F6-EA2EEA2993E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5D1E50-0955-4D93-B6F6-EA2EEA2993E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5D1E50-0955-4D93-B6F6-EA2EEA2993E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
