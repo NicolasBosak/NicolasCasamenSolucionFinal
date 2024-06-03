@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NicolasCasamenSolucion", "NicolasCasamenSolucion.csproj", "{C1048D8F-B310-49BC-A898-32EF0A58A44C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NicolasCasamenSolucionAPI", "..\NicolasCasamenSolucionAPI\NicolasCasamenSolucionAPI.csproj", "{BF5D1E50-0955-4D93-B6F6-EA2EEA2993E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NicolasCasamenSolucionAPI", "..\NicolasCasamenSolucionAPI\NicolasCasamenSolucionAPI.csproj", "{BF5D1E50-0955-4D93-B6F6-EA2EEA2993E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NicolasCasamenBurgerAPP", "..\NicolasCasamenBurgerAPP\NicolasCasamenBurgerAPP.csproj", "{7AB846C9-86CE-4A54-A4F7-81EBE97D7722}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,12 @@ Global
 		{BF5D1E50-0955-4D93-B6F6-EA2EEA2993E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF5D1E50-0955-4D93-B6F6-EA2EEA2993E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF5D1E50-0955-4D93-B6F6-EA2EEA2993E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB846C9-86CE-4A54-A4F7-81EBE97D7722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB846C9-86CE-4A54-A4F7-81EBE97D7722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB846C9-86CE-4A54-A4F7-81EBE97D7722}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7AB846C9-86CE-4A54-A4F7-81EBE97D7722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB846C9-86CE-4A54-A4F7-81EBE97D7722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB846C9-86CE-4A54-A4F7-81EBE97D7722}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
